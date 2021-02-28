@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
 
-<p align="left" display="flex" flex-direction="row" justify-content="center" align-items="center">
+<p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
   <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
   <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
