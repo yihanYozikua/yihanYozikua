@@ -5,17 +5,8 @@
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
----
-title: "Font Awesome in R Markdown"
-output: html_document
----
-    
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-    
-# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
-    
+
+fa(name = "r-project", fill = "steelblue")    
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
