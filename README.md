@@ -1,7 +1,5 @@
 <!--<img style="float:right;" src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />-->
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
+
 
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
