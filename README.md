@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
-<h3 align="center">A passionate software engineer from Taiwan</h3>
+<h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
 
 
@@ -10,9 +10,11 @@
 Follow me on &nbsp
   <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
+  <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://fb.com/newy860318" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
+  <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
+  </a>
+  <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 </p>
 
