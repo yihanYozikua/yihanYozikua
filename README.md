@@ -4,18 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> <a href="https://twitter.com/yozikua" target="blank"><img src="https://img.shields.io/twitter/follow/yozikua?logo=twitter&style=for-the-badge" alt="yozikua" /></a> </p>
 
 
-- 🔭 I’m currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
+- 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
 - 💻 See all of my [projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing).
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing).
 - 📫 How to reach me **newy860318@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yozikua" height="30" width="40" /></a>
+<a href="https://twitter.com/yozikua" target="blank"><i class="fab fa-twitter-square"></i></a>
 <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yihanyozikua" height="30" width="40" /></a>
 <a href="https://fb.com/newy860318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="newy860318" height="30" width="40" /></a>
 <a href="https://medium.com/@newy860318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@newy860318" height="30" width="40" /></a>
