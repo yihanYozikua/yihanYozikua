@@ -34,8 +34,8 @@ In my leisure time, I love photography and appreciate world through the viewing 
 <kbd>
   <p>📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
   <ul>
-    <li>4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /><strong>Adobe Lightroom</strong>.       </li>
-    <li>3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /><strong>Adobe Photoshop</strong>.       </li>
+    <li>4 years experience on <strong>Adobe Lightroom</strong>.</li>
+    <li>3 years experience on <strong>Adobe Photoshop</strong>.</li>
   </ul>
 </kbd>
 
