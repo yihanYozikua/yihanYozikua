@@ -9,7 +9,7 @@
   Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan.
   Mostly focus on the field of Computer Vision, Human-Computer Interaction, and Front-End Development.
 </p>-->
-Hi there 👋 ! I'm currently a ***Research and Development Intern*** at ![](https://i.imgur.com/SBYNFGC.png) Microsoft Taiwan.
+Hi there 👋 ! I'm currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft-tw" height="20" width="20" /> Microsoft Taiwan.
 Mostly focus on the field of Computer Vision, Human-Computer Interaction, and Front-End Development.
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
