@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
-
-Click on the @icn-camera icon to take a screen shot.
-
+![fa-crown](fa-crown.svg)
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
