@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
-:fa-facebook:
+Click on the @icn-camera icon to take a screen shot.
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
