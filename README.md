@@ -11,7 +11,7 @@
 </p>-->
 
 
-<ul style="list-style:none;">
+<ul style="list-style-type:none;">
   <li>Hi there 👋 ! I'm currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft-tw" height="20" width="20" /> Microsoft Taiwan.</li>
   <li></li>
   <li></li>
