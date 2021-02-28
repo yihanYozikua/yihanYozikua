@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> <a href="https://twitter.com/yozikua" target="blank"><img src="https://img.shields.io/twitter/follow/yozikua?logo=twitter&style=for-the-badge" alt="yozikua" /></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> 
 <span style="float:left;">
 <a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" /></a>
