@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
-Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan. 
+Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
 Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
@@ -13,9 +13,13 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 ### Short Introduction of Me
 👨🏻‍💻 [Software Engineer](https://github.com/yihanYozikua/yihanYozikua/)
+- 5 years experience on C++.
+- 3+ years experience on Python.
+- 1+ years experience on Front-End Development (HTML5, CSS, JavaScript).
 
 📷 [Portrait Photographer](https://www.instagram.com/furrysix.photo/)
-
+- 4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /> Adobe Lightroom.
+- 3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /> Adobe Photoshop.
 
 
 Follow me on
