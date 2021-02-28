@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm YIHAN HSIAO.</h1>
+<h1 align="left" float="left">Hi 👋, I'm YIHAN HSIAO.</h1>
 
 <span float="right">
   <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
