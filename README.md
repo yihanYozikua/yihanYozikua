@@ -22,6 +22,13 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 
 ## 😉 Short Introduction
+<svg width="400" height="180">
+  <rect x="50" y="20" rx="20" ry="20" width="150" height="150"
+  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
+Sorry, your browser does not support inline SVG.
+</svg>
+
+
 👨🏻‍💻 **[Software Engineer](https://github.com/yihanYozikua/)**
 - 5 years experience on **C++**.
 - 3+ years experience on **Python**.
