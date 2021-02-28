@@ -12,6 +12,8 @@
 Hi there 👋 ! I'm currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan. 
 Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
+
+
 Follow me on
   <a href="https://linkedin.com/in/yihanyozikua" target="_blank"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
   </a>
