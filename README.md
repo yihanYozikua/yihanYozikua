@@ -27,8 +27,7 @@ Follow me on &nbsp
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
 </p>
 
----
-
+### My Skills
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
 </a>
