@@ -30,6 +30,11 @@ Follow me on &nbsp
 
 
 <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="#151515" stroke-opacity="1"/>
+<g xmlns="http://www.w3.org/2000/svg" data-testid="card-title" transform="translate(25, 35)">
+  <g transform="translate(0, 0)">
+    <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
+  </g>
+</g>
 
 
 <h3 align="left">Languages and Tools:</h3>
