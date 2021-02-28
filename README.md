@@ -2,10 +2,9 @@
 
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
-  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
-  <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
+Follow me on &nbsp
+  <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
   <a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
@@ -14,10 +13,16 @@
 </p>
 
 
+<p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
+  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
+</p>
+
+
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
 - 💻 See all of my [projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing).
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing).
 - 📫 How to reach me **newy860318@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
