@@ -31,7 +31,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-<kbd style="height:30vh;">
+<kbd style="border-radius: 3px; padding: 1px 2px 0; border: 1px solid gray;">
   <p>📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
   <ul>
     <li>4 years experience on <strong>Adobe Lightroom</strong>.</li>
