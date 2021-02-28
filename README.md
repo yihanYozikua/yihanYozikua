@@ -28,7 +28,7 @@ Follow me on &nbsp
 </p>
 
 ### My Skills
-<a href="" target="_blank"> 
+<a href="#" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
 </a>
 <a href="" target="_blank"> 
