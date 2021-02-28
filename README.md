@@ -1,4 +1,4 @@
-<img style="float:right;" src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
+<!--<img style="float:right;" src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />-->
 
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
