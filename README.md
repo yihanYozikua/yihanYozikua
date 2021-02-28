@@ -57,7 +57,7 @@ Follow me on &nbsp
     <img src="https://i.imgur.com/kL9y7uw.jpg" alt="nodejs" width="30" height="30"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
+    <img src="https://i.imgur.com/aowwMv5.png" alt="bash" width="30" height="30"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
