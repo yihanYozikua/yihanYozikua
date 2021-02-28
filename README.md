@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm YIHAN HSIAO.</h1>
 
+
+<h3 align="center">A passionate software engineer from Taiwan
+
 <p align="right" style="white-space:nowrap">
   <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
@@ -9,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate software engineer from Taiwan</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> 
 </p>
