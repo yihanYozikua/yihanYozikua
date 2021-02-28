@@ -1,20 +1,16 @@
 <h1 align="left">Hi 👋, I'm YIHAN HSIAO.</h1>
 
+<h3 align="center">A passionate software engineer from Taiwan</h3>
 
-<h3 align="center">A passionate software engineer from Taiwan
 
-<p nowrap align="right">
+<p align="left" display="flex" flex-direction="row" justify-content="center" align-items="center">
+  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
   <a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
   <a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
   <a href="https://fb.com/newy860318" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
   </a>
-</p>
-
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> 
 </p>
 
 
