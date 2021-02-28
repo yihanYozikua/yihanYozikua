@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
-
+`r fa("font-awesome-logo-full", fill = "forestgreen")`
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
   <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
