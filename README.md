@@ -29,6 +29,9 @@ Follow me on &nbsp
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="#151515" stroke-opacity="1"/>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4> Programming Language </h4>
