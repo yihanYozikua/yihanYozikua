@@ -7,11 +7,12 @@
 
 - 🔭 I’m currently working on **Distance Measure App for Desktop**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)
 
+
+
+- 💻 All of my (projects)[https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing] are available.
+- 📄 Know about my (experiences)[https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing]
 - 📫 How to reach me **newy860318@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
