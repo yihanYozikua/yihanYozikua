@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" /> <a href="https://twitter.com/yozikua" target="blank"><img src="https://img.shields.io/twitter/follow/yozikua?logo=twitter&style=for-the-badge" alt="yozikua" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yozikua" target="blank"><img src="https://img.shields.io/twitter/follow/yozikua?logo=twitter&style=for-the-badge" alt="yozikua" /></a> </p>
 
 - 🔭 I’m currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
 - 💻 See all of my [projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing).
