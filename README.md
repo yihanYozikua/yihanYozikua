@@ -23,10 +23,12 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 ## 😉 Short Introduction
 <kbd>
-👨🏻‍💻 **[Software Engineer](https://github.com/yihanYozikua/)**
-- 5 years experience on **C++**.
-- 3+ years experience on **Python**.
-- 1+ years experience on **Front-End Development (HTML5, CSS, JavaScript)**.
+<p>👨🏻‍💻 <strong><a href="https://github.com/yihanYozikua/">Software Engineer</a></strong></p>
+<ul>
+<li>5 years experience on <strong>C++</strong>.</li>
+<li>3+ years experience on <strong>Python</strong>.</li>
+<li>1+ years experience on <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
+</ul>
 </kbd>
 
 📷 **[Portrait Photographer](https://www.instagram.com/furrysix.photo/)**
