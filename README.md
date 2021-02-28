@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
 <p align="center">
-  Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" version="1.1"><g id="surface1"><path d="M22 22H6V6h16z" fill="#FF5722"/><path d="M42 22H26V6h16z" fill="#4CAF50"/><path d="M42 42H26V26h16z" fill="#FFC107"/><path d="M22 42H6V26h16z" fill="#03A9F4"/></g><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description about="https://iconscout.com/legal#licenses" dc:title="windows,phone,store" dc:description="windows,phone,store" dc:publisher="Iconscout" dc:date="2017-12-15" dc:format="image/svg+xml" dc:language="en"><dc:creator><rdf:Bag><rdf:li>Icons8</rdf:li></rdf:Bag></dc:creator></rdf:Description></rdf:RDF></metadata></svg> Microsoft Taiwan.
+  Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" />Microsoft Taiwan.
 </p>
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
