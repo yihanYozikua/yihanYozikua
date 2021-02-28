@@ -17,17 +17,15 @@ Follow me on &nbsp
   </a>
 </p>
 
+- 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
+- 💻 See all of my **[Projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
+- 🧑🏻‍ Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
+- 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=4b88ee&text_color=ffffff&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=4c87ee&text_color=ffffff&locale=en" alt="yihanyozikua" width="50%" />
 </p>
-
-
-- 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
-- 💻 See all of my **[Projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
-- 🧑🏻‍ Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
-- 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
