@@ -5,23 +5,6 @@
 
 <h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
-Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
-Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
-In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
-
-
-
-## Short Introduction of Me
-👨🏻‍💻 **[Software Engineer](https://github.com/yihanYozikua/)**
-- 5 years experience on C++.
-- 3+ years experience on Python.
-- 1+ years experience on Front-End Development (HTML5, CSS, JavaScript).
-
-📷 **[Portrait Photographer](https://www.instagram.com/furrysix.photo/)**
-- 4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /> Adobe Lightroom.
-- 3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /> Adobe Photoshop.
-
-
 Follow me on
   <a href="https://linkedin.com/in/yihanyozikua" target="_blank"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
   </a>
@@ -32,6 +15,23 @@ Follow me on
   <a href="https://www.instagram.com/furrysix.photo/" target="_blank"><img align="center" src="https://i.imgur.com/o6yAgBx.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 
+Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
+Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
+In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
+
+
+
+## 😉 Short Introduction
+👨🏻‍💻 **[Software Engineer](https://github.com/yihanYozikua/)**
+- 5 years experience on C++.
+- 3+ years experience on Python.
+- 1+ years experience on Front-End Development (HTML5, CSS, JavaScript).
+
+📷 **[Portrait Photographer](https://www.instagram.com/furrysix.photo/)**
+- 4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /> Adobe Lightroom.
+- 3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /> Adobe Photoshop.
+
+## 😎 Know Me More
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
 - 💻 See all of my **[Projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
 - 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
