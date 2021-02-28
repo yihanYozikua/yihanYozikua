@@ -22,7 +22,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 
 ## 😉 Short Introduction
-<kbd height="30">
+<kbd style="height:30vh;">
   <p>👨🏻‍💻 <strong><a href="https://github.com/yihanYozikua/">Software Engineer</a></strong></p>
   <ul>
     <li>5 years experience on <strong>C++</strong>.</li>
@@ -31,7 +31,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-<kbd height="30">
+<kbd style="height:30vh;">
   <p>📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
   <ul>
     <li>4 years experience on <strong>Adobe Lightroom</strong>.</li>
