@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
 <p align="center">
-  Hi there 👋 ! I'm currently a *Research and Development Intern* at Microsoft Taiwan.
+  Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at Microsoft Taiwan.
 </p>
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
