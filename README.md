@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
+<p align="left" style="position:absolute; right:0;" >
+  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
+</p>
+
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
   <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
@@ -13,11 +17,6 @@ Follow me on &nbsp
 </p>
 
 
-<p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
-  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
-</p>
-
-
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=4b88ee&text_color=ffffff&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=4c87ee&text_color=ffffff&locale=en" alt="yihanyozikua" width="50%" />
@@ -25,8 +24,8 @@ Follow me on &nbsp
 
 
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
-- 💻 See all of my **[projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
-- 🧑🏻‍ Know about my **[experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
+- 💻 See all of my **[Projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
+- 🧑🏻‍ Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 
