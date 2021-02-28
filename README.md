@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yozikua" target="blank"><img src="https://img.shields.io/twitter/follow/yozikua?logo=twitter&style=for-the-badge" alt="yozikua" /></a> </p>
 
-- 🔭 I’m currently working on **Distance Measure App for Desktop**
-
-
-
-
+- 🔭 I’m currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
 - 💻 See all of my [projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing).
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing).
 - 📫 How to reach me **newy860318@gmail.com**
