@@ -17,6 +17,7 @@ Follow me on &nbsp
   </a>
   <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
   </a>
+  <a class="fa fa-facebook"></a>
   <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 </p>
