@@ -6,7 +6,8 @@
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
 
-fa(name = "r-project", fill = "steelblue")    
+# `r fa("r-project", fill = "steelblue")` test
+
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
