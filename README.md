@@ -22,7 +22,7 @@ Follow me on &nbsp
 - 🧑🏻‍ Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
-<p>
+<p style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
 </p>
