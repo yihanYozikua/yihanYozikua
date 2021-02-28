@@ -27,7 +27,11 @@ Follow me on &nbsp
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**
 - 💻 See all of my [projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing).
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing).
-- 📫 How to reach me **newy860318@gmail.com**
+- 📫  me **newy860318@gmail.com**
+<a href="mailto:newy860318@gmail.com" class="email">
+  <i class="far fa-envelope icon-style"></i>
+  <span class="email-text">contact me</span>
+</a>
 
 
 
