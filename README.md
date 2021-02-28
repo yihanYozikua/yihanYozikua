@@ -1,10 +1,10 @@
+<img style="float:right;" src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
+
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-<p align="left" style="position:absolute; right:0;" >
-  <img src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />
-</p>
+
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
