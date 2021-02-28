@@ -19,8 +19,8 @@ Follow me on &nbsp
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=4b88ee&text_color=ffffff&locale=en&layout=compact" alt="yihanyozikua" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=4c87ee&text_color=ffffff&locale=en" alt="yihanyozikua" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=4b88ee&text_color=ffffff&locale=en&layout=compact" alt="yihanyozikua" width="50%" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=4c87ee&text_color=ffffff&locale=en" alt="yihanyozikua" width="50%" />
 </p>
 
 
