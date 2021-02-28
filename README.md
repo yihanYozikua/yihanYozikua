@@ -6,13 +6,8 @@
 <h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
 <p align="center" style="line-height:1px;">
-  Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan.
-  
-  Mostly focus on the field of Computer Vision, Human-Computer Interaction, and Front-End Development.
+  Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan. Mostly focus on the field of <b>Computer Vision</b>, <b>Human-Computer Interaction (HCI)</b>, <b>and Front-End Development</b>.
 </p>
-
-
-Mostly focus on the field of Computer Vision, Human-Computer Interaction, and Front-End Development.
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
