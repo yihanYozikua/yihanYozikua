@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
-<h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
+<h3 align="center">A passionate software engineer & portrait photographer from Taiwan</h3>
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
