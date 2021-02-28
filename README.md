@@ -16,6 +16,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - 5 years experience on C++.
 - 3+ years experience on Python.
 - 1+ years experience on Front-End Development (HTML5, CSS, JavaScript).
+
 📷 **[Portrait Photographer](https://www.instagram.com/furrysix.photo/)**
 - 4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /> Adobe Lightroom.
 - 3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /> Adobe Photoshop.
