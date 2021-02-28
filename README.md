@@ -23,8 +23,8 @@ Follow me on &nbsp
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=006CE0&text_color=ffffff&bg_color=545454&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=006CE0&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
 </p>
 
 
