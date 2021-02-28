@@ -5,19 +5,15 @@
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
-
-<a class="fa fa-facebook" href="https://fb.com/newy860318" target="_target">
-  </a>
-
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
-  <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
+  <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
+  <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://i.imgur.com/obdLNPM.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
+  <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://i.imgur.com/4rfvwhJ.png" alt="newy860318" height="20" width="20" />
   </a>
-  <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="furrysix.photo" height="20" width="20" />
+  <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://i.imgur.com/o6yAgBx.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 </p>
 
