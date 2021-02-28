@@ -84,8 +84,14 @@ Follow me on &nbsp
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> 
+    <img src="https://i.imgur.com/LKSsLIX.png" alt="photoshop" width="30" height="30"/> 
   </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img src="https://i.imgur.com/uNlvShl.png" alt="xd" width="30" height="30"/> 
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+    <img src="https://i.imgur.com/H1wYuXh.png" alt="xd" width="30" height="30"/> 
+  </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
   </a> 
