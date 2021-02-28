@@ -1,4 +1,7 @@
 <!--<img style="float:right;" src="https://komarev.com/ghpvc/?username=yihanyozikua&label=Profile%20views&color=0e75b6&style=flat" alt="yihanyozikua" />-->
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 <h1 align="center">Hi 👋, I'm YIHAN HSIAO.</h1>
 
@@ -10,8 +13,6 @@ Follow me on &nbsp
   <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
   <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
-  </a>
-  <a href="https://twitter.com/yozikua" target="_target"><svg align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yihanyozikua" height="20" width="20" style="fill:red;stroke:black;stroke-width:5;opacity:0.5"> </svg>
   </a>
   <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
   </a>
