@@ -32,7 +32,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
 </kbd>
 
 <kbd>
-  <p font-size="40px">📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
+  <p style="font-size:40px;">📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
   <ul>
     <li>5 years expeirence on portrait photography.</li>
     <li>4 years experience on <strong>Adobe Lightroom</strong>.</li>
