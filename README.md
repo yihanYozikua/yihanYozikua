@@ -9,9 +9,12 @@ Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern**
 Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
+
+
 ### Short Introduction of Me
-👨🏻‍💻 Software Engineer
-📷 Portrait Photographer
+👨🏻‍💻 [Software Engineer](https://github.com/yihanYozikua/yihanYozikua/)
+📷 [Portrait Photographer](https://www.instagram.com/furrysix.photo/)
+
 
 
 Follow me on
