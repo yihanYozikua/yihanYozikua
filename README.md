@@ -4,6 +4,7 @@
 
 <h3 align="center">A passionate software engineer & photographer from Taiwan</h3>
 
+:fa-facebook:
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,9 +15,7 @@ Follow me on &nbsp
   </a>
   <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <!--<a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
-  </a>-->
-  <a class="fa fa-facebook" href="https://fb.com/newy860318" target="_target">
+  <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" />
   </a>
   <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" alt="furrysix.photo" height="20" width="20" />
   </a>
