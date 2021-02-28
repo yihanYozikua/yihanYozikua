@@ -93,7 +93,7 @@ Follow me on &nbsp
     <img src="https://i.imgur.com/H1wYuXh.png" alt="xd" width="30" height="30"/> 
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="30" height="30"/> 
   </a> 
 
 <!--<h3 align="left">Languages and Tools:</h3>
