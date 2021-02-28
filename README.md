@@ -7,13 +7,13 @@
 
 <p align="left" style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;" >
 Follow me on &nbsp
-  <a href="https://linkedin.com/in/yihanyozikua" target="_target"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
+  <a href="https://linkedin.com/in/yihanyozikua" target="_blank"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://twitter.com/yozikua" target="_target"><img align="center" src="https://i.imgur.com/obdLNPM.png" alt="yihanyozikua" height="20" width="20" />
+  <a href="https://twitter.com/yozikua" target="_blank"><img align="center" src="https://i.imgur.com/obdLNPM.png" alt="yihanyozikua" height="20" width="20" />
   </a>
-  <a href="https://fb.com/newy860318" target="_target"><img align="center" src="https://i.imgur.com/4rfvwhJ.png" alt="newy860318" height="20" width="20" />
+  <a href="https://fb.com/newy860318" target="_blank"><img align="center" src="https://i.imgur.com/4rfvwhJ.png" alt="newy860318" height="20" width="20" />
   </a>
-  <a href="https://www.instagram.com/furrysix.photo/" target="_target"><img align="center" src="https://i.imgur.com/o6yAgBx.png" alt="furrysix.photo" height="20" width="20" />
+  <a href="https://www.instagram.com/furrysix.photo/" target="_blank"><img align="center" src="https://i.imgur.com/o6yAgBx.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 </p>
 
