@@ -23,17 +23,21 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 ## 😉 Short Introduction
 <kbd>
-<p>👨🏻‍💻 <strong><a href="https://github.com/yihanYozikua/">Software Engineer</a></strong></p>
-<ul>
-<li>5 years experience on <strong>C++</strong>.</li>
-<li>3+ years experience on <strong>Python</strong>.</li>
-<li>1+ years experience on <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
-</ul>
+  <p>👨🏻‍💻 <strong><a href="https://github.com/yihanYozikua/">Software Engineer</a></strong></p>
+  <ul>
+    <li>5 years experience on <strong>C++</strong>.</li>
+    <li>3+ years experience on <strong>Python</strong>.</li>
+    <li>1+ years experience on <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
+  </ul>
 </kbd>
 
-📷 **[Portrait Photographer](https://www.instagram.com/furrysix.photo/)**
-- 4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" />**Adobe Lightroom**.
-- 3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" />**Adobe Photoshop**.
+<kbd>
+  <p>📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
+  <ul>
+    <li>4 years experience on <img align="center" src="https://i.imgur.com/uNlvShl.png" alt="Adobe LR" height="20" width="20" /><strong>Adobe Lightroom</strong>.       </li>
+    <li>3 years experience on <img align="center" src="https://i.imgur.com/LKSsLIX.png" alt="Adobe PS" height="20" width="20" /><strong>Adobe Photoshop</strong>.       </li>
+  </ul>
+</kbd>
 
 ## 😎 Know Me More
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
