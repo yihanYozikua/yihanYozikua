@@ -7,6 +7,7 @@
 
 <p align="center" style="line-height:1px;">
   Hi there 👋 ! I'm currently a <i>Research and Development Intern</i> at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="furrysix.photo" height="20" width="20" /> Microsoft Taiwan.
+  
   Mostly focus on the field of Computer Vision, Human-Computer Interaction, and Front-End Development.
 </p>
 
