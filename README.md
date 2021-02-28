@@ -9,11 +9,11 @@
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing).
 - 📫 How to reach me **newy860318@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <span style="float:left;">
-<a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="40" width="40" /></a>
-<a href="https://fb.com/newy860318" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="40" width="40" /></a>
+<a href="https://twitter.com/yozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" alt="yihanyozikua" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/yihanyozikua" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" alt="yihanyozikua" height="20" width="20" /></a>
+<a href="https://fb.com/newy860318" target="blank"><img align="center" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png" alt="newy860318" height="20" width="20" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
