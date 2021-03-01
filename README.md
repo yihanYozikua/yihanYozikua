@@ -44,6 +44,11 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
+## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I do at Microsoft Taiwan
+- Construct proof-of-concept applications for clients to show how the Microsoft Azure can be applied to specific scenarios.
+- Implement apps by tools related to computer vision and deep learning.
+- Provide demo programs to promote Microsoft Azure services to potential customers.
+
 <p style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
