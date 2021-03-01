@@ -15,7 +15,7 @@ Follow me on
   <a href="https://www.instagram.com/furrysix.photo/" target="_blank"><img align="center" src="https://i.imgur.com/o6yAgBx.png" alt="furrysix.photo" height="20" width="20" />
   </a>
 
-Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
+Hi there 👋 ! I'm Yi-Han, and currently a ***[Research and Development Intern](https://github.com/yihanYozikua/#-what-i-do-at-microsoft-taiwan)*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
 Mostly focus on the field of **Computer Vision**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
