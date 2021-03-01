@@ -49,6 +49,8 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - Implement apps by tools related to computer vision and deep learning.
 - Provide demo programs to promote Microsoft Azure services to potential customers.
 
+<br>
+
 <p style="display:flex; flex-direction:row; justify-content:flex-start; align-items:center;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en&layout=compact" alt="yihanyozikua" width="40%" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yihanyozikua&show_icons=true&theme=dark&title_color=80BDFF&text_color=ffffff&bg_color=545454&locale=en" alt="yihanyozikua" width="50%" />
