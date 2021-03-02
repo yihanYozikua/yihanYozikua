@@ -45,7 +45,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 ## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I do at Microsoft Taiwan
 - Functioned as a technical sales engineer in several projects of Taiwan government agencies with Azure.
-- Construct proof-of-concept applications to demonstrate and prototype Microsoft Azure product integrations in customer environments.
+- Construct proof-of-concept applications to demonstrate and prototype Azure integrations in customer environments.
 - Build solutions using SaaS, PaaS, IaaS technologies for customers to solve their business challenges.
 - Work with Sales team and act as a pre-sales engineer to introduce Microsoft Azure for customers.
 - Identify customers’ key technical objections and develop strategies to problem-solve their technical blockers.
