@@ -21,10 +21,10 @@ In my leisure time, I love photography and appreciate world through the viewing 
 <kbd>
   <p>👨🏻‍💻 <strong><a href="https://github.com/yihanYozikua/" style="font-size:38px;">Software Engineer</a></strong></p>
   <ul>
-    <li>5 years experience on <strong>C++</strong>.</li>
-    <li>3+ years experience on <strong>Python</strong>.</li>
-    <li>1+ years experience on <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
-    <li>1 year experience on Microsoft Azure Cloud Services (SaaS, PaaS, IaaS).</li>
+    <li>5 years' experience in <strong>C++</strong>.</li>
+    <li>3+ years' experience in <strong>Python</strong>.</li>
+    <li>1+ years' experience in <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
+    <li>1 year's experience in Cloud Computing Services (SaaS, PaaS, IaaS).</li>
   </ul>
 </kbd>
 
