@@ -31,9 +31,9 @@ In my leisure time, I love photography and appreciate world through the viewing 
 <kbd>
   <p style="font-size:40px;">📷 <strong><a href="https://www.instagram.com/furrysix.photo/">Portrait Photographer</a></strong></p>
   <ul>
-    <li>5 years expeirence on portrait photography.</li>
-    <li>4 years experience on <strong>Adobe Lightroom</strong>.</li>
-    <li>3 years experience on <strong>Adobe Photoshop</strong>.</li>
+    <li>5 years' expeirence in portrait photography.</li>
+    <li>4 years' experience in <strong>Adobe Lightroom</strong>.</li>
+    <li>3 years' experience in <strong>Adobe Photoshop</strong>.</li>
   </ul>
 </kbd>
 
