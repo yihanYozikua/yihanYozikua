@@ -49,7 +49,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - Construct proof-of-concept applications in Microsoft Azure for customers to solve their business challenges.
 - Build solutions using SaaS, PaaS, IaaS technologies for customers.
 - Demonstrate and prototype Microsoft Azure product integrations in customer environments.
-- Work with Sales team to introduce Azure for customers, identify key technical objections and develop strategies to resolve technical blockers.
+- Work with Sales team to introduce Microsoft Azure for customers, identify key technical objections and develop strategies to resolve technical blockers.
 
 <br>
 
