@@ -50,8 +50,6 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - Build solutions using SaaS, PaaS, IaaS technologies for customers.
 - Demonstrate and prototype Microsoft Azure product integrations in customer environments.
 - Work with Sales team to introduce Microsoft Azure for customers, identify key technical objections and develop strategies to resolve technical blockers.
-![image](https://user-images.githubusercontent.com/33646045/109631739-38ddf500-7b81-11eb-8029-2eba27eb1d46.png)
-
 
 <br>
 
