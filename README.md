@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm YIHAN HSIAO.</h1>
 
-<h3 align="center">A passionate software engineer & portrait photographer from Taiwan.</h3>
+<h3 align="center">A passionate  software engineer & portrait photographer from Taiwan.</h3>
 
 Follow me on
   <a href="https://linkedin.com/in/yihanyozikua" target="_blank"><img align="center" src="https://i.imgur.com/HSEHxfl.png" alt="yihanyozikua" height="20" width="20" />
