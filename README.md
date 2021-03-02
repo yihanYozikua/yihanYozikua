@@ -46,9 +46,12 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 ## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I do at Microsoft Taiwan
-- Construct proof-of-concept applications for clients to show how the Microsoft Azure can be applied to specific scenarios.
-- Implement apps by tools related to computer vision and deep learning.
-- Provide demo programs to promote Microsoft Azure services to potential customers.
+- Construct proof-of-concept applications in Microsoft Azure for customers to solve their business challenges.
+- Build solutions using SaaS, PaaS, IaaS technologies for customers.
+- Demonstrate and prototype Microsoft Azure product integrations in customer environments.
+- Work with Sales team to introduce Microsoft Azure for customers, identify key technical objections and develop strategies to resolve technical blockers.
+![image](https://user-images.githubusercontent.com/33646045/109631739-38ddf500-7b81-11eb-8029-2eba27eb1d46.png)
+
 
 <br>
 
