@@ -24,7 +24,8 @@ In my leisure time, I love photography and appreciate world through the viewing 
     <li>5 years' experience in <strong>C++</strong>.</li>
     <li>3+ years' experience in <strong>Python</strong>.</li>
     <li>1+ years' experience in <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
-    <li>1 year's experience in Cloud Computing Services (SaaS, PaaS, IaaS).</li>
+    <li>1 year's experience in <strong>Java</strong> programming.</li>
+    <li>1 year's experience in <strong>Cloud Computing Services</strong> (SaaS, PaaS, IaaS).</li>
   </ul>
 </kbd>
 
