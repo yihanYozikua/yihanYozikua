@@ -23,8 +23,8 @@ In my leisure time, I love photography and appreciate world through the viewing 
   <ul>
     <li>5 years' experience in <strong>C++</strong>.</li>
     <li>3+ years' experience in <strong>Python</strong>.</li>
+    <li>1 year's experience in <strong>JavaScipt ES6</strong>.</li>
     <li>1+ years' experience in <strong>Front-End Development (HTML5, CSS, JavaScript)</strong>.</li>
-    <li>1 year's experience in <strong>Java</strong>.</li>
     <li>1 year's experience in <strong>Cloud Computing Services</strong> (SaaS, PaaS, IaaS).</li>
   </ul>
 </kbd>
@@ -40,8 +40,8 @@ In my leisure time, I love photography and appreciate world through the viewing 
 
 ## 😎 Know Me More
 - 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
-- 💻 See all of my **[Projects](https://drive.google.com/file/d/1Ytnn17tnrbLUQKyTFzR2UAmzvuWUlDWu/view?usp=sharing)**.
-- 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/1WicuDF7vA5fBKWfQDjdgXGbhWQ313sIS/view?usp=sharing)**.
+- 💻 See all of my **[Projects](https://drive.google.com/file/d/1uhc9FZAFt3a--r8Sqq4ULxPjpTToeNmd/view?usp=sharing)**.
+- 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/1yf0tMCafzOxp0qRpBUHFKM2Lwls5L6oy/view?usp=sharing)**.
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 ## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I do at Microsoft Taiwan
