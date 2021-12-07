@@ -13,7 +13,7 @@ Follow me on
   <a href="https://fb.com/newy860318" target="_blank"><img align="center" src="https://i.imgur.com/4rfvwhJ.png" alt="newy860318" height="20" width="20" />
   </a>
 
-Hi there 👋 ! I'm Yi-Han, and currently a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan. 
+Hi there 👋 ! I'm Yi-Han, and currently a ***Software Engineer Intern*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Taiwan. 
 Mostly focus on the field of **Computer Vision**, **Cloud Computing**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
