@@ -14,7 +14,7 @@ Follow me on
   </a>
 
 Hi there 👋 ! I'm Yi-Han, and currently a ***Software Engineer Intern*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Taiwan. 
-Mostly focus on the field of **Computer Vision**, **Cloud Computing**, **Human-Computer Interaction (HCI)**, and **Front-End Development**.
+Mostly focus on the field of **Computer Vision**, **Cloud Computing**, **Human-Computer Interaction (HCI)**, and **Web Application Developments**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
 ## 😉 Short Introduction
