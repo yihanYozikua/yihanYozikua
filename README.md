@@ -13,7 +13,7 @@ Follow me on
   <a href="https://fb.com/newy860318" target="_blank"><img align="center" src="https://i.imgur.com/4rfvwhJ.png" alt="newy860318" height="20" width="20" />
   </a>
 
-Hi there 👋 ! I'm Yi-Han, and currently a ***Software Engineer Intern*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Taiwan. 
+Hi there 👋 ! I'm Yi-Han, used to be a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan and currently a ***Software Engineer Intern*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Taiwan. 
 Mostly focus on the field of **Computer Vision**, **Cloud Computing**, **Human-Computer Interaction (HCI)**, and **Web Application Developments**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
@@ -50,6 +50,13 @@ In my leisure time, I love photography and appreciate world through the viewing 
 - Build solutions using SaaS, PaaS, IaaS technologies for customers to solve their business challenges.
 - Work with Sales team and act as a pre-sales engineer to introduce Microsoft Azure for customers.
 - Identify customers’ key technical objections and develop strategies to problem-solve their technical blockers.
+
+## <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> What I do at LINE Taiwan
+- Build automation test specs for web service.
+- Create and maintain the monitor on Jenkins Pipeline for the service health check.
+- Plan and generate the APIs’ performance tests.
+- Research and plan for the test cases in advance.
+- Perform as a **[TECHPULSE 2022](https://techpulse.line.me/?utm_source=original&utm_medium=OA&utm_campaign=TECHPULSE)** speaker in TECH FRESH session. (Day 1, 16:30-17:00)
 
 <br>
 
