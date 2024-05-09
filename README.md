@@ -39,14 +39,18 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-## <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
+## <img align="center" src="https://hackmd.io/_uploads/r1RYgzcz0.png" alt="LINEヤフー" height="20" width="20" /> What I'm doing at [LINEヤフー](https://www.lycorp.co.jp/ja/), October 2022 ~ Now
+- 
+
+
+## <img align="center" src="https://imgur.com/a/6n5TwEo" alt="msft" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
 - Build automation test specs for web service.
 - Create and maintain the monitor on Jenkins Pipeline for the service health check.
 - Plan and generate the APIs’ performance tests.
 - Research and plan for the test cases in advance.
 - Perform as a **[TECHPULSE 2022](https://techpulse.line.me/?utm_source=original&utm_medium=OA&utm_campaign=TECHPULSE)** speaker in TECH FRESH session. (Day 1, 16:30-17:00)
 
-## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I did at Microsoft Taiwan, July 2020 ~ June 2021
+## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="LINE Taiwan" height="20" width="20" /> What I did at Microsoft Taiwan, July 2020 ~ June 2021
 - Functioned as a technical sales engineer in several projects of Taiwan government agencies with Azure.
 - Construct proof-of-concept applications to demonstrate and prototype Azure integrations in customer environments.
 - Build solutions using SaaS, PaaS, IaaS technologies for customers to solve their business challenges.
