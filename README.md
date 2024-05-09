@@ -59,7 +59,7 @@ TBA
 ## 😎 Know Me More
 - 🔭 **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
 - 💻 See all of my **[Projects](https://drive.google.com/file/d/1uhc9FZAFt3a--r8Sqq4ULxPjpTToeNmd/view?usp=sharing)**.
-- 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/10WqCJeOrgDCqrx79Qz3suq1RyHGcDJZu/view?usp=sharing)**.
+- 👨🏻‍💻 Know about my **[Experiences](https://www.linkedin.com/in/yihanyozikua/?locale=en_US)**.
 - 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 <br>
