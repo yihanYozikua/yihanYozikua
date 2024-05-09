@@ -39,10 +39,10 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-## <img align="center" src="https://hackmd.io/_uploads/r1RYgzcz0.png" alt="LINEヤフー" height="20" width="20" /> What I'm doing at [LINEヤフー](https://www.lycorp.co.jp/ja/), October 2022 ~ Now
+## <img align="center" src="https://i.imgur.com/d9p8QaH.png" alt="LINEヤフー" height="20" width="20" /> What I'm doing at [LINEヤフー](https://www.lycorp.co.jp/ja/), October 2022 ~ Now
+TBA
 
-
-## <img align="center" src="https://imgur.com/a/6n5TwEo" alt="LINE Taiwan" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
+## <img align="center" src="https://i.imgur.com/DCr79Bf.png" alt="LINE Taiwan" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
 - Build automation test specs for web service.
 - Create and maintain the monitor on Jenkins Pipeline for the service health check.
 - Plan and generate the APIs’ performance tests.
