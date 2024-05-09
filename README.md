@@ -14,7 +14,7 @@ Follow me on
   </a>
 
 Hi there 👋 ! I'm Yi-Han, used to be a ***Research and Development Intern*** at <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> Microsoft Taiwan and ***QA Automation Engineering Intern*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Taiwan.
-Currently a ***Server-Side Engineer*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINE Fukuoka.
+Currently a ***Server-Side Engineer*** at <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> LINEヤフー.
 Mostly focus on the field of **Server-Side Engineering**, **Human-Computer Interaction (HCI)**, **Computer Vision**, **Cloud Computing**, and **Web Application Developments**.
 In my leisure time, I love photography and appreciate world through the viewing window of a camera, which makes me an excellent portrait photographer 📷.
 
