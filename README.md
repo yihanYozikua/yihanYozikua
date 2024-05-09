@@ -39,7 +39,7 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-## <img align="center" src="https://i.imgur.com/d9p8QaH.png" alt="LINEヤフー" height="20" width="20" /> What I'm doing at [LINEヤフー](https://www.lycorp.co.jp/ja/), October 2022 ~ Now
+## <img align="center" src="https://i.imgur.com/d9p8QaH.png" alt="LINEヤフー" height="20" width="20" /> What I'm doing at [LINEヤフー](https://www.lycorp.co.jp/ja/) (ex-LINE), October 2022 ~ Now
 TBA
 
 ## <img align="center" src="https://i.imgur.com/DCr79Bf.png" alt="LINE Taiwan" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
