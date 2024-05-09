@@ -39,25 +39,25 @@ In my leisure time, I love photography and appreciate world through the viewing 
   </ul>
 </kbd>
 
-## 😎 Know Me More
-- 🔭 Currently working on **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
-- 💻 See all of my **[Projects](https://drive.google.com/file/d/1uhc9FZAFt3a--r8Sqq4ULxPjpTToeNmd/view?usp=sharing)**.
-- 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/10WqCJeOrgDCqrx79Qz3suq1RyHGcDJZu/view?usp=sharing)**.
-- 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
+## <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> What I did at LINE Taiwan, July 2021 ~ June 2022
+- Build automation test specs for web service.
+- Create and maintain the monitor on Jenkins Pipeline for the service health check.
+- Plan and generate the APIs’ performance tests.
+- Research and plan for the test cases in advance.
+- Perform as a **[TECHPULSE 2022](https://techpulse.line.me/?utm_source=original&utm_medium=OA&utm_campaign=TECHPULSE)** speaker in TECH FRESH session. (Day 1, 16:30-17:00)
 
-## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I do at Microsoft Taiwan
+## <img align="center" src="https://i.imgur.com/SBYNFGC.png" alt="msft" height="20" width="20" /> What I did at Microsoft Taiwan, July 2020 ~ June 2021
 - Functioned as a technical sales engineer in several projects of Taiwan government agencies with Azure.
 - Construct proof-of-concept applications to demonstrate and prototype Azure integrations in customer environments.
 - Build solutions using SaaS, PaaS, IaaS technologies for customers to solve their business challenges.
 - Work with Sales team and act as a pre-sales engineer to introduce Microsoft Azure for customers.
 - Identify customers’ key technical objections and develop strategies to problem-solve their technical blockers.
 
-## <img align="center" src="https://i.imgur.com/RhFH4Bt.png" alt="msft" height="20" width="20" /> What I do at LINE Taiwan
-- Build automation test specs for web service.
-- Create and maintain the monitor on Jenkins Pipeline for the service health check.
-- Plan and generate the APIs’ performance tests.
-- Research and plan for the test cases in advance.
-- Perform as a **[TECHPULSE 2022](https://techpulse.line.me/?utm_source=original&utm_medium=OA&utm_campaign=TECHPULSE)** speaker in TECH FRESH session. (Day 1, 16:30-17:00)
+## 😎 Know Me More
+- 🔭 **[Distance Measure App for Desktop](https://github.com/yihanYozikua/distance-measure)**.
+- 💻 See all of my **[Projects](https://drive.google.com/file/d/1uhc9FZAFt3a--r8Sqq4ULxPjpTToeNmd/view?usp=sharing)**.
+- 👨🏻‍💻 Know about my **[Experiences](https://drive.google.com/file/d/10WqCJeOrgDCqrx79Qz3suq1RyHGcDJZu/view?usp=sharing)**.
+- 📩 Reach me via **<a href="mailto:newy860318@gmail.com" class="email"><i class="far fa-envelope icon-style"></i><span class="email-text">Email</span></a>**
 
 <br>
 
